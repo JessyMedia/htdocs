@@ -1,0 +1,24 @@
+.pane {
+	background-repeat: no-repeat;
+	background-position: center center;
+	
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+	text-indent: -2000px;
+	overflow: hidden;
+}
+
+.pane_1 { background-image: url("../img/pane_01.png"); }
+.pane_2 { background-image: url("../img/pane_02.png"); }
+.pane_3 { background-image: url("../img/pane_03.png"); }
+.pane_4 { background-image: url("../img/pane_04.png"); }
+.pane_5 { background-image: url("../img/pane_05.png"); }
+.pane_6 { background-image: url("../img/pane_06.png"); }
+.pane_7 { background-image: url("../img/pane_07.png"); }
+.pane_8 { background-image: url("../img/pane_08.png"); }
+.pane_9 { background-image: url("../img/pane_09.png"); }
+.pane_10 { background-image: url("../img/pane_10.png"); }
+.pane_11 { background-image: url("../img/pane_11.png"); }

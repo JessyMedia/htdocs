@@ -1,0 +1,21 @@
+{
+  "name": "jessymedia",
+  "version": "0.0.0",
+  "authors": [
+    "daniel <daniel@nextplus-inc.com>"
+  ],
+  "main": "default.html",
+  "keywords": [
+    "jessy",
+    "media"
+  ],
+  "license": "NPL",
+  "homepage": "http://www.nextplus-inc.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
